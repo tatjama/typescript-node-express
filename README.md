@@ -1,4 +1,7 @@
-Setup project
+# Tatjana Marković TYPESCRIPT-NODE-EXPRESS RestAPI CRUD from Maximilian SchwarzMuller
+[Udemy - Understanding TypeScript](https://www.udemy.com/course/understanding-typescript/learn/lecture/16950326#questions)
+
+## Setup project
 1. npm init         - init project with package.json
 2. tsc --init       - init TypeScript compilation with tsconfig.json
                     - set "moduleResolution": "node"
